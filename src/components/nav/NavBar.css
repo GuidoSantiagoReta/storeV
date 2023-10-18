@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+.nav-bar {
+    background: linear-gradient(45deg, rgb(119, 5, 92) 31%, rgb(248, 14, 193) 89%);
+   
+  }
+  
+  .brand{
+    font-family: 'Lobster', sans-serif;
+    
+
+  }
+  .toggle {
+    border: none !important;
+  }
+  
+  .toggle:focus {
+    box-shadow: none !important;
+  }
+  .image-logo {
+    padding: 0 10px;
+  
+  }
+  .nav-link{
+    color: rgb(19, 19, 19) !important;
+    font-size: 18px !important;
+    
+  }
+  .nav-link:hover{
+    color: rgb(255, 255, 255) !important;
+  }
+  .nav-link.active {
+    color:  rgb(255, 255, 255) !important;
+    
+  }
+  .nav-link.collapsed {
+    display: none !important;
+  }
+  /*mediaqueries*/
+  
+  

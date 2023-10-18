@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Circa",
+      "brand": "tascani",
+      "image": "../src/assets/product1.jpg",
+      "model": "",
+      "price": "$40.000"
+    },
+    {
+      "id": 2,
+      "name": "Vans",
+      "brand": "",
+      "image": "../src/assets/product2.png",
+      "model": "",
+      "price": "$30.000"
+    },
+    {
+      "id": 3,
+      "name": "Quicksilver",
+      "brand": "",
+      "image": "../src/assets/product3.jpg",
+      "model": "",
+      "price": "$60.000"
+    },
+    {
+      "id": 4,
+      "name": "penguin",
+      "brand": "tascani",
+      "image": "../src/assets/product4.jpg",
+      "model": "",
+      "price": "$20.000"
+    },
+    {
+      "id": 5,
+      "name": "jogging",
+      "brand": "tascani",
+      "image": "../src/assets/product5.jpg",
+      "model": "",
+      "price": "$25.000"
+    },
+    {
+      "id": 6,
+      "name": "Camisa",
+      "brand": "tascani",
+      "image": "../src/assets/product6.png",
+      "model": "",
+      "price": "$35.000"
+    },
+    {
+      "id": 7,
+      "name": "Campera",
+      "brand": "tascani",
+      "image": "../src/assets/product7.png",
+      "model": "",
+      "price": "$70.000"
+    },
+    {
+      "id": 8,
+      "name": "Gorra",
+      "brand": "tascani",
+      "image": "../src/assets/product8.jpg",
+      "model": "",
+      "price": "$15.000"
+    }
+  ],
+  "favorites": []
+}

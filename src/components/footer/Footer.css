@@ -1,0 +1,14 @@
+
+/*FOOTER*/
+
+  
+
+
+.bg-footer {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(45deg, rgb(119, 5, 92) 31%, rgb(248, 14, 193) 89%);
+    width: 100%;
+    
+  }
+  

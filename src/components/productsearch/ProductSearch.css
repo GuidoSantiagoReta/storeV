@@ -1,0 +1,23 @@
+
+
+  
+  .input:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgb(117, 5, 119)!important;
+    border: 1px solid rgb(117, 5, 119)!important;
+  }
+
+
+  
+
+  @media (max-width: 306px) {
+    .search-bar {
+      height: 40px !important; 
+      padding: 5px 8px !important; 
+      font-size: 13px !important; 
+    }
+    .search-btn {
+      padding: 5px 10px !important; 
+      font-size: 16px !important;
+    }
+  }
