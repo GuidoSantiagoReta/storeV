@@ -1,5 +1,5 @@
 
-# CREAR PROYECTO CON VITE:
+# PROYECTO CON VITE:
 - npm init vite  <project_name>
 - select a framework: React
 - select variant: Javascript
