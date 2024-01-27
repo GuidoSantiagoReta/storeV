@@ -21,7 +21,7 @@
 ## Backend:
 - json-server
 - npm i -g json-server
-- npx json-server --watch backend/db.json  ( levantar servidor, instalado de manera local) - (hacer uso del script: npm run server)
+- npx json-server --watch backend/db.json  ( levantar servidor, instalado de manera local) - (script: npm run server)
 
 ## Folders:
 
@@ -89,16 +89,16 @@ const ProductsProvider = ({ children }) => {
 export default ProductsProvider;
 ``
 
-#### UseProducts.js(para separar la lógica del contexto)
+
 
 
 # INICIAR LA APLICACION:
 
-## En el front-end:
+## front-end:
 
 - npm run dev
 
-## En el backend:
+## backend:
 - npm run server
 
 
