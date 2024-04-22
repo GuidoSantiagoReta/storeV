@@ -102,7 +102,13 @@ export default ProductsProvider;
 - npm run server
 
 
+## Capturas: 
 
+![storevite1](https://github.com/GuidoSantiagoReta/storeVite/assets/46303885/a0ded23e-9432-4761-b09a-fa03b495e4b2)
+![storevite2](https://github.com/GuidoSantiagoReta/storeVite/assets/46303885/bdf94848-e21d-4f5e-ad6e-516a701764a4)
+![storevite3](https://github.com/GuidoSantiagoReta/storeVite/assets/46303885/379b6cce-cbda-4590-aed3-7c9b597c92dd)
+![storeviteres1](https://github.com/GuidoSantiagoReta/storeVite/assets/46303885/ab8e1af2-2660-41db-aa15-7a51cbfb01ef)
+![storeviteres2](https://github.com/GuidoSantiagoReta/storeVite/assets/46303885/f20c9e32-60a8-4490-8bd1-143933e68179)
 
 
 
