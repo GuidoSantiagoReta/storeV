@@ -7,7 +7,7 @@
 
 
 
-# DESARROLLO DE  MODULO  ECOMMERCE UTILIZANDO React, axios, react-router y context.
+# DESARROLLO DE  MÓDULO  ECOMMERCE UTILIZANDO React, axios, react-router y context.
 
 ## Frontend:
 - react 
